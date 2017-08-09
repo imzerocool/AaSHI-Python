@@ -1,1 +1,2 @@
-# AaSHI-Python
+# Python
+Python related study material
